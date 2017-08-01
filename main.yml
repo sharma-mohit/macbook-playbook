@@ -11,86 +11,86 @@
     - iterm
     - known-hosts
     - dropbox
-    - dropbox-ssh-key
-    - jre
-    - jdk
+#    - dropbox-ssh-key
+#    - jre
+#    - jdk
     - skype
-    - ynab
-    - steam
-    - theremin
-    - licecap
-    - mac-ports
-    - xquartz
-    - mactex
-    - postgresql
+#    - ynab
+#    - steam
+#    - theremin
+#    - licecap
+#    - mac-ports
+#    - xquartz
+#    - mactex
+#    - postgresql
     # - chefdk
-    - openoffice
-    - chef
-    - emacs
-    - r
-    - lua
-    - luajit
-    - python3
-    - skitch
-    - divvy
-    - unity
-    - dash
-    - vlc
-    - prey
-    - light-table
-    - octave
-    - haskell
-    - ghc-mod
-    - hoogle
-    - hdevtools
-    - hlint
-    - hindent
-    - pointfree
-    - purescript
-    - silverlight
+#    - openoffice
+#    - chef
+#    - emacs
+#    - r
+#    - lua
+#    - luajit
+#    - python3
+#    - skitch
+#    - divvy
+#    - unity
+#    - dash
+#    - vlc
+#    - prey
+#    - light-table
+#    - octave
+#    - haskell
+#    - ghc-mod
+#    - hoogle
+#    - hdevtools
+#    - hlint
+#    - hindent
+#    - pointfree
+#    - purescript
+#    - silverlight
     - hangouts
-    - google-chrome
-    - firefox
-    - firefox-pentadactyl
-    - firefox-adblock-plus
-    - boot2docker
-    - vagrant
-    - vagrant-vbguest
-    - wkhtmltopdf
-    - bundler
-    - tmuxinator
-    - heroku
+#    - google-chrome
+#    - firefox
+#    - firefox-pentadactyl
+#    - firefox-adblock-plus
+#    - boot2docker
+#    - vagrant
+#    - vagrant-vbguest
+#    - wkhtmltopdf
+#    - bundler
+#    - tmuxinator
+#    - heroku
     - zsh
     - homebrew
     - git
-    - node
-    - powerline
-    - pgsanity
-    - oh-my-zsh
-    - hadoop
-    - terminal-notifier
-    - reattach-to-user-namespace
-    - fontforge
+#    - node
+#    - powerline
+#    - pgsanity
+#    - oh-my-zsh
+#    - hadoop
+#    - terminal-notifier
+#    - reattach-to-user-namespace
+#    - fontforge
     - monaco-for-powerline
-    - irssi
-    - irssi-notifier
-    - leiningen
-    - jmeter
-    - mplayer
-    - mpd
-    - mpc
-    - mpdscribble
-    - vimpc
+#    - irssi
+#    - irssi-notifier
+#    - leiningen
+#    - jmeter
+#    - mplayer
+#    - mpd
+#    - mpc
+#    - mpdscribble
+#    - vimpc
     - tree
     - wget
     - htop
     - p7zip
-    - tree
+#    - tree
     - tmux
-    - ctags
-    - the-silver-searcher
-    - vault
-    - jsxhint
-    - pulp
-    - dotfiles
-    - vimfiles
+#    - ctags
+#    - the-silver-searcher
+#    - vault
+#    - jsxhint
+#    - pulp
+#    - dotfiles
+#    - vimfiles
